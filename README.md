@@ -15,7 +15,7 @@ git clone https://github.com/teatime77/xbrl-chart.git
 
 
 ### 2. **TypeScriptをコンパイルします。**
-
+version of ts 
 ```bash
 cd XBRL-HOME
 tsc -p ts
